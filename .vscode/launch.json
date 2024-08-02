@@ -6,7 +6,7 @@
       "name": "Launch Java",
       "request": "launch",
       "mainClass": "game.source.Game",
-      "projectName": "Maze-Game-using-Java"
+      "projectName": "Game_Demo_SIERAS"
     }
   ]
 }
